@@ -5,9 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogesh-gajare&label=Profile%20views&color=0e75b6&style=flat" alt="yogesh-gajare" /> </p>
 
+- 👨‍💻 All of my projects are available at [https://github.com/Yogesh-Gajare/Portfolio.git](https://github.com/Yogesh-Gajare/Portfolio.git)
+
 - 💬 Ask me about **HTML, CSS, JS, PHP, MySql etc.**
 
 - 📫 How to reach me **yogeshygajare@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xo7oDmmqjSkoViu8BYeYnUv9BHns3dAz/view?usp=drivesdk](https://drive.google.com/file/d/1xo7oDmmqjSkoViu8BYeYnUv9BHns3dAz/view?usp=drivesdk)
 
 - ⚡ Fun fact **I Think I am Funny😅**
 
